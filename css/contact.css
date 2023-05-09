@@ -1,0 +1,30 @@
+.content tr {
+    height: 7rem;
+}
+
+.content th {
+    width: 150px;
+    margin: 10px;
+    text-align: right;
+    height: 7rem;
+    font-size: 15px;
+}
+
+.word {
+    width: 480px;
+}
+
+.submit-button{
+    background-color: #008b8b;
+    padding: 10px;
+    margin: auto;
+    display: block;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 3rem;
+}
+
+.submit-button:hover {
+    opacity: 0.8;
+}
